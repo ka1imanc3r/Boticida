@@ -34,3 +34,7 @@
     "typescript": "^5.4.5"
   }
 }
+  {
+  npm install @huggingface/inference
+  }
+
